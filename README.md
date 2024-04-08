@@ -91,7 +91,9 @@ If you want to run the tests in another one, just add browser and the name of th
 We use GitHub actions to build, test and deploy our app. You can check it in [here](https://github.com/rcardosopereira/saucedemobdd/actions).         
 
 ### Explanation of this project
-https://drive.google.com/file/d/1RDhBf7BxbiQ3TYPUTe4iwXiKMs2vnq9_/view
+Please have a look here: [Google Drive](https://drive.google.com/file/d/1RDhBf7BxbiQ3TYPUTe4iwXiKMs2vnq9_/view).  
+
+
 Please have a look here: cypress\videos\explanation of the project\explanation of the project by Rafael.mp4
 Sorry about the resolution and quality of this video. Github permits only 10mb the size of a video.
 

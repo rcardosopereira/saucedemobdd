@@ -1,0 +1,35 @@
+{
+  "name": "saucedemo-cucumberbdd",
+  "version": "1.0.0",
+  "description": "Automation Challenge with Cypress, Java-Script and BDD (Cucumber).",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rcardosopereira/saucedemobdd.git"
+  },
+  "keywords": [
+    "Cucumber",
+    "BDD",
+    "Java-Script",
+    "Cypress",
+    "Test",
+    "Automation"
+  ],
+  "author": "Rafael C. Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcardosopereira/saucedemobdd/issues"
+  },
+  "homepage": "https://github.com/rcardosopereira/saucedemobdd#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.7.2",
+    "esbuild": "^0.20.2"
+  }
+}
